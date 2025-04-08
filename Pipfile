@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-structlog = "==25.1.0"
+structlog = "==25.2.0"
 
 [dev-packages]
 
